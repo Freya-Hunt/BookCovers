@@ -1,12 +1,12 @@
-title: Your name or name of site
-description: A website with a blog
-header_text: My Dream Blog
+title: 3 Seconds
+description: The Ultimate Guide to the Front Cover
+footer_text: Copyright 2021 Freya Nelder-Hunt
+header_feature_image: ../uploads/sincerely-media-dgqf1dukutm-unsplash.jpg
+header_text: How to make your book look good
 header_text_color: "#ffffff"
-footer_text: Copyright 2021 Your name
-header_feature_image: ../uploads/pages.jpg
-bannerheight: "20vmax"
-gridlayout: false
-logo: /uploads/logo.jpg
+bannerheight: 20vmax
+logo: ../uploads/freya.jpg
 favicon: /uploads/favicon.ico
-upzoom: true
+gridlayout: false
 fixednavbar: false
+upzoom: true
