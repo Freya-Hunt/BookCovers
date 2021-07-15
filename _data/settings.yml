@@ -1,11 +1,11 @@
 title: 3 Seconds
 description: The Ultimate Guide to the Front Cover of Books
 footer_text: Copyright 2021 Freya Nelder-Hunt
-header_feature_image: ../uploads/janko-ferlic-sfl_qonmy00-unsplash.jpg
+header_feature_image: ../uploads/pages.jpg
 header_text: "Good Bookin': The Art of Making a Good Front Cover"
 header_text_color: "#ffffff"
 bannerheight: 20vmax
-logo: ../uploads/3-seconds-logo.png
+logo: ../uploads/logo.jpg
 favicon: /uploads/favicon.ico
 gridlayout: false
 fixednavbar: false
