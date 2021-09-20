@@ -4,7 +4,7 @@ footer_text: Copyright 2021 Freya Nelder-Hunt
 header_feature_image: ../uploads/log.jpg
 header_text: ""
 header_text_color: "#ffffff"
-bannerheight: 20vmax
+bannerheight: 40vmax
 logo: ../uploads/logo.jpg
 favicon: ../uploads/goldenratio.png
 gridlayout: false
