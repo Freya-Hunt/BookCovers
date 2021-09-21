@@ -54,10 +54,42 @@ I started out by picking a pre-made template from the young adult themed section
 
 ![](../uploads/canva6.png)
 
+I then used the colour selector to change the colour palette to a more horror themed cover, with reds, blacks and whites. Canva Free also has pre-made colour palettes made by professional designers, so you don’t have to worry about picking colours that go together.
+
 ![](../uploads/canva7.png)
+
+After this, I used the font tool to edit the title and author's name. There are font pack themes, but you can click on the individual words and change each font respectively.
 
 ![](../uploads/canva8.png)
 
+I then went to Elements and searched for clip art of things I thought would go with the YA horror cover, such as ropes, finger prints and blood stains.
+
 ![](../uploads/canva9.png)
+
+Here's what I produced with the template I started with:
+
+![](../uploads/canva10.jpg)
+
+I’ve designed my cover to fit an A5 book- however, you may notice something is missing. The front and back cover are not joined, and the spine is missing. 
+
+Whilst this limitation is fine if you’re just looking to make a cover for an ebook (which typically does not include a spine or back cover), or are simply using Canva as a tool for inspiration and planning, if you do want to finish the whole cover of your book using the designs you’ve created on Canva, you will have to use another software to finish off.
+
+There are many options available for free book cover design software, such as Gimp, Blurb Bookwright and Visme, all of which you can use to upload both your front and back cover, as well as add a spine. 
+
+Here is my finished book cover I've completed in Adobe InDesign: 
+
+![](../uploads/canva11.png)
+
+
+
+## Canva: The Final Word
+
+If you’re new to design, or have little experience with book cover designs, but still want to create your own front cover, Canva is a good solution which is easy to use and free. Great book cover design is very complex and takes a while to get a hang of, even for talented illustrators and designers, but for a simple cover that needs to look professional and eye catching, Canva has a wide variety of tools and a selection of stock images and graphics which will help you create something with a polished finish. 
+
+Just understand that a full cover is not as simple to do with Canva, but is still achievable. It is, however, the perfect tool if you’re looking to make a front cover for an ebook, or are just looking for design inspiration.
+
+
+
+
 
 <!--EndFragment-->
