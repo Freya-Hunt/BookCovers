@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Good Bookin'
+title: Good Bookin'- An Introduction to successful book design
 date: 2021-09-22T16:15:04.279Z
 header_feature_image: ../uploads/blogpost1.jpg
 title_color: "#ffffff"
