@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Find Inspiration For Your Book Cover
-date: 2021-09-21T20:12:39.903Z
+date: 2021-09-22T16:11:30.128Z
 header_feature_image: ../uploads/book-inspiration-2.jpg
 title_color: "#ffffff"
 comments: false
