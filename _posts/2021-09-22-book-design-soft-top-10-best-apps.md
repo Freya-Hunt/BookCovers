@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Book Design Software: Top 10 Best Apps"
-date: 2021-09-22T00:41:43.490Z
+date: 2021-09-22T16:04:00.280Z
+header_feature_image: ../uploads/nordwood-themes-ubiwo074qlu-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
