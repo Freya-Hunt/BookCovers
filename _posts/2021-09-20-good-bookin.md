@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Bookin'
-date: 2021-09-20T22:03:07.106Z
+date: 2021-09-22T16:15:04.279Z
 header_feature_image: ../uploads/blogpost1.jpg
 title_color: "#ffffff"
 caption: An introduction to good cover design
