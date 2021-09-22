@@ -2,6 +2,7 @@
 layout: post
 title: How To Illustrate Your Book Cover- For Free!
 date: 2021-09-22T00:01:41.837Z
+header_feature_image: ../uploads/illustratorhire2.jpg
 title_color: "#ffffff"
 comments: false
 tags:
