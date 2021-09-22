@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Make A Successful Historical Fiction Book Cover
-date: 2021-09-22T13:23:24.203Z
+date: 2021-09-22T14:16:40.957Z
 header_feature_image: ../uploads/history-folger.png
 title_color: "#ffffff"
 comments: false
