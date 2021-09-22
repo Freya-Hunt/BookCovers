@@ -1,7 +1,8 @@
 ---
 layout: post
-title: How To Make A Successful War Fiction Cover
+title: How To Make A Successful War Fiction Book Cover
 date: 2021-09-22T01:50:06.461Z
+header_feature_image: ../uploads/war2.png
 title_color: "#ffffff"
 comments: false
 tags:
