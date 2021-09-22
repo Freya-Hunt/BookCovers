@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Make A Successful Romance Book Cover
-date: 2021-09-22T12:30:51.965Z
+date: 2021-09-22T14:13:04.807Z
 header_feature_image: ../uploads/romancelogo.jpg
 title_color: "#ffffff"
 comments: false
