@@ -2,7 +2,7 @@
 layout: post
 title: Colours- How They Affect Your Cover
 date: 2021-09-21T23:10:05.746Z
-header_feature_image: ../uploads/colourslogo.jpg
+header_feature_image: ../uploads/colourlogo.jpg
 title_color: "#ffffff"
 comments: false
 tags:
