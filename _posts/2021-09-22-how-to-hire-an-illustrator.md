@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Hire An Illustrator
-date: 2021-09-22T00:22:34.369Z
+date: 2021-09-22T14:29:44.167Z
 title_color: "#ffffff"
 comments: false
 tags:
