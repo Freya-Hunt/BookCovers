@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should you hire a cover designer?
-date: 2021-09-21T20:35:05.144Z
+date: 2021-09-22T16:10:11.182Z
 header_feature_image: ../uploads/sincerely-media-dgqf1dukutm-unsplash.jpg
 title_color: "#ffffff"
 comments: false
