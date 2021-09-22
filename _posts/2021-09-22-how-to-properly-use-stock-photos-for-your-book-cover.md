@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Properly Use Stock Photos For Your Book Cover
-date: 2021-09-21T23:42:59.214Z
+date: 2021-09-22T15:24:59.555Z
 title_color: "#ffffff"
 comments: false
 tags:
