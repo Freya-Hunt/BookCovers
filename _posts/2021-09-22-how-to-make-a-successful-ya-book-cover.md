@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Make A Successful YA Book Cover
-date: 2021-09-22T12:54:27.112Z
+date: 2021-09-22T14:14:59.724Z
 header_feature_image: ../uploads/ya2.png
 title_color: "#ffffff"
 comments: false
