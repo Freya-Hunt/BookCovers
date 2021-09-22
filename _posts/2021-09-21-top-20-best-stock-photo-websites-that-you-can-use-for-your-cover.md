@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Top 20 Best Stock Photo Websites That You Can Use For Your Cover
-date: 2021-09-21T22:32:21.835Z
+date: 2021-09-22T15:35:12.129Z
+header_feature_image: ../uploads/jayshree-sharma-inxjhjimkxg-unsplash.jpg
 title_color: "#ffffff"
 comments: false
 tags:
