@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Should You Put a Picture Of Yourself On Your Cookbook?
-date: 2021-09-22T14:12:15.218Z
+date: 2021-09-22T14:17:15.218Z
 header_feature_image: ../uploads/dan-gold-5o1ddensm4g-unsplash.jpg
 title_color: "#ffffff"
 comments: false
