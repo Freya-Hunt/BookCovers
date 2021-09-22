@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Make a Cook Book Cover (In a Budget Friendly Way)
+title: How To Make a Cookbook Cover (In a Budget Friendly Way)
 date: 2021-09-22T01:00:47.146Z
 header_feature_image: ../uploads/cookbook3.png
 title_color: "#ffffff"
