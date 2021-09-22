@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Book Design Soft: Top 10 Best Apps"
+title: "Book Design Software: Top 10 Best Apps"
 date: 2021-09-22T00:41:43.490Z
 title_color: "#ffffff"
 comments: false
