@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 15 Amazing Children's Books Illustrators (and how to hire them)
-date: 2021-09-22T11:38:31.805Z
+date: 2021-09-22T14:26:00.052Z
 header_feature_image: ../uploads/kids3.png
 title_color: "#ffffff"
 comments: false
