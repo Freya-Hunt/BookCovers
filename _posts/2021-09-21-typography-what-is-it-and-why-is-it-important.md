@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Typography- What Is It and Why Is It Important
-date: 2021-09-21T22:03:56.697Z
+date: 2021-09-22T16:01:07.445Z
 header_feature_image: ../uploads/typographylogo.png
 title_color: "#ffffff"
 comments: false
