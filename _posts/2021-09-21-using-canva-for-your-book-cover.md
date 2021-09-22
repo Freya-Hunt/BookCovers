@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Using Canva For Your Book Cover
-date: 2021-09-21T20:50:51.430Z
+date: 2021-09-22T15:38:16.086Z
 header_feature_image: ../uploads/canva.jpg
 title_color: "#ffffff"
 comments: false
