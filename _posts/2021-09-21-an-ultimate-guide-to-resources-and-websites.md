@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Ultimate Guide to Resources and Websites "
-date: 2021-09-21T19:44:53.377Z
+date: 2021-09-22T16:07:03.490Z
 header_feature_image: ../uploads/resources.jpg
 title_color: "#ffffff"
 comments: false
