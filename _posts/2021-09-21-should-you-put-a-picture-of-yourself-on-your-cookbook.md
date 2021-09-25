@@ -40,6 +40,6 @@ This is how [Michele DeFilippo](https://www.quora.com/profile/Michele-DeFilippo)
 >
 > 'It depends. If YOU are the product, then your picture can absolutely be used on the front cover (think Dr. Phil or Suze Orman). If your book is non-fiction, you are a well-known expert in your field, and buyers would recognize your face, then your picture can be used on the back cover, along with a bio. Otherwise, your picture and bio belong in the back matter of the book.'
 
-Ultimately the answer is not a definite yes or no, as the more realistic answer is that it depends. More often than not for an indie or self-publishing author the answer is no, however if you think it’s essential for your marketing and branding to have your face on your cover, then why not try it out!
+Ultimately the answer is not a definite yes or no, as the more realistic answer is that it depends. More often than not for a self-publishing author the answer is no, however if you think it’s essential for your marketing and branding to have your face on your cover, then why not try it out!
 
 <!--EndFragment-->
