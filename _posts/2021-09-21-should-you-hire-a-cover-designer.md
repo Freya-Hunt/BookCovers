@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Should you hire a cover designer?
+title: Should You Hire a Cover Designer For Your Book?
 date: 2021-09-22T16:10:11.182Z
 header_feature_image: ../uploads/sincerely-media-dgqf1dukutm-unsplash.jpg
 title_color: "#ffffff"
