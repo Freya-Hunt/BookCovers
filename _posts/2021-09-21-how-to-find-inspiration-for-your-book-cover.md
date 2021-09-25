@@ -14,21 +14,15 @@ Sometimes it’s hard to know where to start when it comes to design, and when d
 
 Here I’ll show you some amazing resources and articles for inspiration which will for sure ignite your creative spark!
 
-
-
 ## Book Cover Archive: 
 
 The [Book Cover Archive](http://bookcoverarchive.com/) is an amazing resource and should be a first stop for anyone new to book design. It features a massive gallery of the best book design in the industry, and no matter your genre you're bound to find hundreds of sources of inspiration for your cover here.
 
 There even have a twitter where they keep up to date with the best book design in the current market, check it out [here.](https://twitter.com/CoverArchive?s=20)
 
-
-
 ## Stock Photography: 
 
-Stock photography can be a massive source of inspiration, and there are many book cover specific stock websites which feature character shots as well as genre specific photography, making it extremely useful for cover designers. Check out my article about the top stock photography websites, as well as how to properly use stock photography for your cover.
-
-
+Stock photography can be a massive source of inspiration, and there are many book cover specific stock websites which feature character shots as well as genre specific photography, making it extremely useful for cover designers. Check out my article about the [top stock photography websites](https://threeseconds.netlify.app/2021/09/22/top-20-best-stock-photo-websites-that-you-can-use-for-your-cover/), as well as [how to properly use stock photography for your cover.](https://threeseconds.netlify.app/2021/09/22/how-to-properly-use-stock-photos-for-your-book-cover/)
 
 ## Bookseller:
 
@@ -69,8 +63,6 @@ Also try looking for inspiration from art trends, both current ones and ones fro
 
 Looking for something modern and eye catching, check out <https://brody-associates.com/>, a ‘London-based design studio specialising in identity, typography and creative directions across all platforms.’
 
-
-
 ## The Folger Picture Library
 
 [The Folger Picture Library](https://www.folger.edu/shakespeares-works) is a huge archive featuring HD pictures of Shakespeare's work and artwork linked to his writing, including old manuscripts, illustrations, paintings and even pictures of costumes used in his plays. The best bit, it’s all free for commercial use and publication-
@@ -82,11 +74,7 @@ Looking for something modern and eye catching, check out <https://brody-associat
 > * Share- copy and redistribute the material in any medium or format
 > * Adapt- remix, transform, and build upon the material for any purpose, even commercially
 
-
-
 All that you’re required to do is give credit to the original source of the image somewhere in your book.
-
-
 
 ## Canva
 
