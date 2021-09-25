@@ -14,19 +14,11 @@ Looking for inspiration for your cookbook cover, but have no idea where to start
 
 ![](../uploads/cookbook1.png)
 
-
-
 # Book cover design software
-
-
 
 There are many options for software which can create the perfect cookbook cover, often coming with templates, stock photos, premade colour palettes and typography packs, as well as many more features. 
 
-
-
-For a comprehensive list of book cover design software check out my **article here**. However, I’ll go through a few of the best options for cookbook covers:
-
-
+For a comprehensive list of book cover design software check out my **[article here](https://threeseconds.netlify.app/2021/09/22/book-design-soft-top-10-best-apps/)**. However, I’ll go through a few of the best options for cookbook covers:
 
 ### Placeit (Free, £14.95/month, £89.69/year)
 
@@ -37,8 +29,6 @@ Placeit also boasts a large selection of photos, illustrations, textures and gra
 If you do use the free version, there is a £8 fee to download your cover at the end, so this service does not really come for free, however it’s definitely worth the price for a professional and unique cover.
 
 ![](../uploads/cookbook5.png)
-
-
 
 ### Canva (Free, £10.99/month, £99.99/year)
 
@@ -51,8 +41,6 @@ Canva is refreshing with how modern its designs are, with their templates always
 The only issue with Canva is that you can end up with a pretty generic book cover if you don’t put in the work. Whilst it may feel easy to pick one of their preformed professional templates and feel finished, remember that many other people will be using the same templates for their covers! Always use the templates as a starting point, and make it your own original cover from there.
 
 ![](../uploads/cookbook6.png)
-
-
 
 ### Gimp (Free)
 
@@ -68,19 +56,15 @@ Once you do get a grasp of GIMP, you can design more freely than with template-b
 
 ![](../uploads/cookbook7.png)
 
-
-
 # Using stock photography
 
 Stock photography is a great way to make your book look professional, whilst also not breaking the bank to source images. There are many websites that offer free stock photography, however even the images you have to pay for are never very expensive. 
 
-**(However, do be aware of the rules of using stock photography before committing to it, check out my post here about how to use it correctly)**
+**[(However, do be aware of the rules of using stock photography before committing to it, check out my post here about how to use it correctly)](https://threeseconds.netlify.app/2021/09/22/how-to-properly-use-stock-photos-for-your-book-cover/)**
 
 Many of the best selling cookbooks out on the market today feature high quality images of food on the cover, and it’s a great way to let potential readers know exactly what kind of food or drinks your book contains.
 
 ![](../uploads/cookbook4.png)
-
-
 
 ### FoodiesFeed
 
@@ -88,15 +72,11 @@ This one is pretty self explanatory, [FoodiesFeed](https://www.foodiesfeed.com/)
 
 ![](../uploads/cookbook8.png)
 
-
-
 ### Unsplash
 
-[Unsplash](https://unsplash.com/) is a large database of free, high- resolution photos. It has some truly excellent and professional royalty-free images available, and a large selection of food photography, many of which are bound to be a perfect fit for your cover.
+[Unsplash](https://unsplash.com/) is a large database of free, high-resolution photos. It has some truly excellent and professional royalty-free images available, and a large selection of food photography, many of which are bound to be a perfect fit for your cover.
 
 ![](../uploads/cookbook9.png)
-
-
 
 ### Pixabay
 
@@ -104,11 +84,7 @@ This one is pretty self explanatory, [FoodiesFeed](https://www.foodiesfeed.com/)
 
 ![](../uploads/cookbook10.png)
 
-
-
 # Using your own photography on the cover
-
-
 
 It’s always a good idea to feature your own cooking on your cookbook cover, as it shows your potential readers exactly what kind of cooking you do. However, if you're new to photography, or think that your own photoshoot would be too expensive, here are a few articles which can help you.
 
@@ -118,10 +94,6 @@ It’s always a good idea to feature your own cooking on your cookbook cover, as
 
 [](https://brutallyhonestmicrostock.com/2019/08/06/7-tips-on-getting-started-in-book-cover-photography/)
 
-
-
-*I hope this list has been helpful for showing you how you can make your own cookbook cover for cheap, and that it's given you the tools and resources to create something both unique and professional.*
-
-
+*I hope this list has been helpful for showing you how you can make your own cookbook cover for cheap, and that it's given you the tools and resources to create something unique and professional!*
 
 <!--EndFragment-->
