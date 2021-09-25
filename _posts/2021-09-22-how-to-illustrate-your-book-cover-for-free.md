@@ -10,7 +10,7 @@ tags:
 ---
 <!--StartFragment-->
 
-When dealing with a book we’ve poured our heart and soul into, we all wish that we had the budget to hire an illustrator to create a cover which reflects how good the book is inside on the outside. However, if you don’t have a budget which can scratch that far, or a publishing house behind you willing to pour their money into your cover, you’re going to have to take things into your own hands. 
+When dealing with a book we’ve poured our heart and soul into, we all wish that we had the budget to hire an illustrator to create a cover which reflects how good the book is inside on the outside. However, if you don’t have a budget which can stretch that far, or a publishing house behind you willing to pour their money into your cover, you’re going to have to take things into your own hands. 
 
 If you’re determined to have an illustrated cover, fortunately there is a good range of free resources online which you can use to source original good quality illustrations. Here are six of the best resources you can access for free!
 
@@ -64,7 +64,7 @@ Their illustrations are free to download, however they do require you to give cr
 
 ## Ouch!
 
-[Ouch! ](https://icons8.com/illustrations)is a resource website created by icons8, featuring a massive collection of illustrations and images you can use for your cover. They are primarily intended for business use, however the colourful and unique illustrations will fit perfectly on your book. They also require you to credit them for the free use of their resources, however this is more than a fair pay-off for access to their massive gallery!
+[Ouch! ](https://icons8.com/illustrations)is a resource website created by icons8, featuring a massive collection of illustrations and images you can use for your cover. They are primarily intended for business use, however the colourful and unique illustrations could fit perfectly on your book. They also require you to credit them for the free use of their resources, however this is more than a fair pay-off for access to their massive gallery!
 
 ![](../uploads/illustrationouch.png)
 
