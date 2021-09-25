@@ -8,5 +8,5 @@ bannerheight: 50vmax
 logo: ../uploads/logo.jpg
 favicon: ../uploads/goldenratio.png
 gridlayout: true
-fixednavbar: false
+fixednavbar: true
 upzoom: true
