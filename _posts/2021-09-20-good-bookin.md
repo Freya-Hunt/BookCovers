@@ -12,30 +12,24 @@ tags:
 <!--StartFragment-->
 
 > “Covers are the first bit of customer-facing marketing that your reader will ever see. They’re a shortcut—telling the reader in shorthand that they’ll like this book, that it’s in the genre they love to read, and that the person who wrote it is someone they can trust with their valuable (often limited) reading time. That’s a lot of information to pack into one image, and still make it effective."- [Kevin Tumlinson](https://www.draft2digital.com/blog/the-psychology-of-a-good-book-cover/)
->
->
 
 What makes a book cover great is its ability to draw potential readers in, giving them the impression that your book is professional and good quality, as well as signifying all the things it needs to upon first glance (genre, tone, theme, content, etc). Self-published books do not get a green card for having a low budget behind them, and if you want your book to succeed against the so called ‘Big 5 publishers’, who have a large backing of money and experience behind them, you’ll need a book cover which can compete on the same level as their designs.
 
 In this post, I will explain the process of designing your cover, as well as the basic ideas behind design and how you can use them to create a stunning and unique book.
 
-
-
 ## **Look for sources of inspiration for your cover**
 
-Inspiration can come from places such as other book covers, artists, design studios, museums and archives to name a few. Take a look at my post about finding inspiration for your cover **here.**
+Inspiration can come from places such as other book covers, artists, design studios, museums and archives to name a few. Take a look at my post about finding inspiration for your cover **[here.](https://threeseconds.netlify.app/2021/09/22/how-to-find-inspiration-for-your-book-cover/)**
 
 As well as wanting your cover to be  eye-catching and good looking, you also want it to connect with your target market. Therefore, one thing you should always do before starting your cover is study other books from your books genre, and see how they’ve designed their covers. You’re bound to notice specific design tropes and motifs appearing on many books within a certain genre. Check out my other posts to see some of the best books and their covers, where I discuss in depth the specific design tropes of the current best selling genres.
 
-A survey taken from book current readers says that **75%** of people would buy a book with a cover similar to one they’ve read before, as they believe it will be a similar reading experience. You want your cover to communicate to the reader that this book is the one they’re looking for, and you can do this by using genre specific design to signal what your book is about upon only a first glance, as well as associating it with other books from a genre.
+A survey I took with avid book readers says that **75%** of people would buy a book with a cover similar to one they’ve read before, as they believe it will be a similar reading experience. You want your cover to communicate to the reader that this book is the one they’re looking for, and you can do this by using genre specific design to signal what your book is about upon only a first glance, as well as associating it with other books from a genre.
 
 > “People gravitate toward the familiar. The more familiar something (or someone) is, the better the chances of attraction. When readers are looking for something new to add to their shelves, they want to know that it will be something similar enough to what they’re used to, and already enjoy, that it will fit with the books they already love.”- [Tumlinson](https://www.draft2digital.com/blog/the-psychology-of-a-good-book-cover/)
 
 Of course, this isn't to say that your book needs to be cliche and boring. Whilst using genre specific design tropes, you can still make your cover striking and original with things such as imagery, typography and colours.
 
-*Don't forget about the back cover. Check out this [guide here](*<https://blog.reedsy.com/back-of-book-cover/>*) on how to make a format your whole book cover, including the back!*
-
-
+*Don't forget about the back cover. Check out this \[guide here](*<https://blog.reedsy.com/back-of-book-cover/>*) on how to make a format your whole book cover, including the back!*
 
 ## Choosing an image for your cover
 
@@ -45,8 +39,6 @@ Readers can look for books through authors they already like, books friends are 
 
 Therefore, the first job of the image on your cover is to resonate with your intended reader, it has to excite them as well as telling them about the book.
 
-
-
 ## **Make it professional**
 
 This isn't to say you can’t have a silly or quirky cover (if that's what would suit your book), however it does mean that it has to look like it was done professionally, and had a lot of work and effort put into it. Your cover needs to tell that reader that you both have the resources and skills to write a book at a professional level, and that you respect your work and your readers enough to give them the best possible cover you could.
@@ -54,8 +46,6 @@ This isn't to say you can’t have a silly or quirky cover (if that's what would
 > “Your cover is its own story, and readers are looking at it as a way to help them make a purchasing and reading decision.”- [Tumlinson](https://www.draft2digital.com/blog/the-psychology-of-a-good-book-cover/)
 
 If your cover is unprofessional, it tells people that you don’t care about your book, and they may associate the bad quality cover with the quality of the writing inside your book. If you want to break into a new, bigger market, you must show people exactly how good your book is upon the first look.
-
-
 
 ## **Make it appropriate for your genre**
 
@@ -66,8 +56,6 @@ For example, fans of romance would not pay attention to yet another cover depict
 ![](../uploads/dukemaster.jpg "(No, these aren’t all books in the same series despite what you may be thinking. They’re actually just book covers which didn’t do their research! Whilst they may fit the romance genre, they are completely bland and generic, not something which draws in new readers.)")
 
 If your book cover gets too cliche, that's also going to turn your readers off. **87%** of book readers say that cliche covers would put them off of a book they were interested in, so you should be wary of falling into this trap!
-
-
 
 ## **Layout and eyeflow**
 
@@ -80,8 +68,6 @@ This is where layout becomes important. Good layouts are strategic and balanced,
 * **Z Formation:** this layout is designed to mimic the act of reading, having the eyes move from left to write, from top to bottom. See how the cover below makes your eyes move across the whole page, allowing you to see all the aspects of the design whilst reading the title. The Z formation engages the reader's eyes the same way reading text does, and invoking action helps build engagement with your cover.
 
 ![](../uploads/layout.png)
-
-
 
 * **The big to small method:** A commonly passed around theory within design forums is this idea-
 
@@ -101,8 +87,6 @@ What order did you read this cover here? This is the way I read it:
 
 ![](../uploads/layout3.png)
 
-
-
 ## **Typography is key**
 
 From the big blocky letters on road signs to the delicate flourishes on a Lindor chocolate bar, typography really does affect the way you perceive the daily world, and book covers are no exception to this rule. If you use typography correctly, you can craft a truly memorable cover.
@@ -119,14 +103,6 @@ The typography you use really does tell the tone of the book. Take the image abo
 
 Choose the right typeface and you can make even the plainest book cover stand out!
 
-
-
-
-
-***I hope this introduction to designing book covers has given you a good overview of the topic. Check out my website for tons more information, lists, resources, guides and tutorials on how to make your own book cover professionally, and have it stand out in the market!***
-
-
-
-
+*I hope this introduction to designing book covers has given you a good overview of the topic. Check out my website for tons more information, lists, resources, guides and tutorials on how to make your own book cover professionally, and have it stand out in the market!*
 
 <!--EndFragment-->
