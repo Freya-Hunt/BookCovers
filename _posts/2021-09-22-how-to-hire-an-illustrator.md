@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Hire An Illustrator
+title: How To Hire An Illustrator for Your Book Cover
 date: 2021-09-22T14:29:44.167Z
 header_feature_image: ../uploads/illustratorhire.jpg
 title_color: "#ffffff"
@@ -16,8 +16,6 @@ Illustrations on your book cover is a good way to make your book stand out, maki
 
 Already know what you want from an illustrator? Check out these professional illustrator agencies with a wide selection of artists:
 
-
-
 * [Reedsy](https://reedsy.com/hire/us/illustration/)
 * [Indie Book Launcher](<https://www.indiebooklauncher.com/ https://indiebooklauncher.com/services/cover-design.php>)
 * [The Cat Agency](https://catagencyinc.com/)
@@ -28,11 +26,7 @@ Already know what you want from an illustrator? Check out these professional ill
 * [Hire An Illustrator](https://www.hireanillustrator.com/i/)
 * [BookBildr ](https://www.bookbildr.com/)
 
-
-
 ## How to find an illustrator for your book
-
-
 
 If your search for an illustrator has only just begun, don't worry- I’ll show you how to find the perfect artist and help you get started creating the perfect cover for your book! Here are a few pointers on how to start your search.
 
@@ -41,11 +35,7 @@ If your search for an illustrator has only just begun, don't worry- I’ll show 
 * Search for illustrators within your budget. Once you’ve compiled a list of artists who you like and would suit the genre of your book, you need to consider the cost. When reaching out to professionals, always be polite (I’ll talk more about how to correctly message artists in a bit), and be honest about your maximum budget. However, don’t rule anyone out because they look too expensive for you, it’s always worth requesting a quote even if you're not sure, you may even be pleasantly surprised!
 * Once you’ve hired the perfect illustrator, you have to keep communicating with them! Just because you’ve hired someone amazing who will no doubt create you a stunning front cover, your work isn’t over yet. This is doubly important if you’re commissioning a lot of illustrations, as you’ll want to keep in touch and know how the project is coming along. Generally illustrators will happily share the progress they’ve made, and by keeping regular tabs on the project you’ll be able to make sure their creative vision aligns with what you want for your cover, keeping the whole project from going awol. 
 
-
-
 ## How to reach out and communicate politely with an illustrator
-
-
 
 * Know their name. On a professional agency website the name of the artist should be clearly displayed, however if you're hiring someone from a website such as Twitter or Instagram and their name is not easily findable, search around a bit. It’s bound to be on one of their posts, or in their email address. Addressing them by their name will let them know that you’re serious about your inquiry, and lets them know you aren’t a spam email, which tend to lack a name in the title. It’s also just polite and sets you off on the right foot for your professional working relationship. 
 * Introduce yourself. Saying ‘Hello my name is…’ is a much more professional way to begin than launching into the business side of things. Think about it, if you were speaking face to face you would always exchange names and pleasantries before talking about business, just because you are speaking online does not mean manners don’t matter. An inquiry is the first contact between you and your potential future artists, so try and make a good first impression.
@@ -60,8 +50,6 @@ If your search for an illustrator has only just begun, don't worry- I’ll show 
 * Making an initial payment. When hiring an artist to make you an illustration, be prepared to put down an initial payment. This will ensure that you have actually booked the artist’s time and work, and they can put you on their schedule to complete your project once they know you’re serious. This payment is also to protect the artist in case for some reason you have to back out, and they have already completed some of your project.
 * Be prepared to work with a contract. This is to protect both you and the artist, and will make sure you don’t run into any legal trouble further down the line.
 
-
-
 ## How much does hiring an illustrator cost?
 
 According to the indie publishing site Reedsy:
@@ -72,26 +60,14 @@ And according to the book blog site Book Beaver:
 
 > “Generally speaking a cover based on stock images and photo manipulation will cost between £270 - £450. Book covers based on illustrations can cost anything from £500 - £1300 depending on the complexity of the artwork.”- [BookBeaver](https://www.bookbeaver.co.uk/blog/book-cover-design-costs)
 
-
-
 If you only want simple small illustrations every so often within your book, for example at the beginning of each chapter, you’re looking at a cost at the lower end of the £500-£1,300/£1,500 range. However, if you plan to have a fully illustrated children’s book with full-page coloured illustrations, you can expect a price at the higher end of that budget. 
 
 Pricing will of course also vary because of the artist's experience, someone new to design selling commissions on a site like Twitter, Instagram or FaceBook will probably charge less than a professional veteran of the industry. Therefore if you’re on a tight budget, you may want to seek out someone at the relative beginning of their career, who while may not be at the same level as some more experienced illustrators, can still offer you a stunning professional book cover for a lot less.
 
 Of course, if you want to keep it even cheaper, you can hire a book illustrator from somewhere like Fivver where illustrators will sell their work for very cheap, however these illustrations tend to be used more than once or are templates leading you to have a non-original book cover, and the quality won't be as professional.
 
-
-
 ![](../uploads/illustrationhire2.png)
 
-
-
-
-
 *I hope this guide has been helpful, and it’s given you the information you need to hire an illustrator for your cover!*
-
-
-
-
 
 <!--EndFragment-->
