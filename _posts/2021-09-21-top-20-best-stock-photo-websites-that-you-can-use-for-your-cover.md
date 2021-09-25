@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Top 20 Best Stock Photo Websites That You Can Use For Your Cover
+title: Top 20 Best Stock Photo Websites That You Can Use For Your Book Cover
 date: 2021-09-22T15:35:12.129Z
 header_feature_image: ../uploads/jayshree-sharma-inxjhjimkxg-unsplash.jpg
 title_color: "#ffffff"
@@ -12,19 +12,15 @@ tags:
 
 If you’re determined to take the sourcing of your book cover image into your own hands, or simply lack the funds to hire a professional designer, here are some options for the best royalty-free stock photo websites available. I’m going to start with the sites that offer free stock photos, before showing the options for websites with the option to purchase royalty-free photo licenses.
 
-
-
 ## Free stock photo sites:
 
 ##### 1. Unsplash
-
-
 
 [Unsplash](https://unsplash.com/) is a large database of free, high- resolution photos. It has some truly excellent and professional royalty-free photos available, and even if it does not have the image you're looking for, the large curation of pictures may help you create a mood board or spark some inspiration for your cover.
 
 ![](../uploads/software1.png)
 
-##### 2. Pixabay 
+##### 2. Pixabay
 
 [Pixabay](https://pixabay.com/) is a popular site for professional designers due to the vast variety of images available, including photos, vectors and illustrations. Their content is produced and released under their own license, meaning you can use their images without permission. While you aren’t required to credit the artist under the terms of service of the website, it’s still good practice to do so.
 
@@ -74,15 +70,12 @@ This one is pretty self explanatory, [FoodiesFeed](<https://www.foodiesfeed.com/
 
 ## Paid for stock photo sites:
 
-
-
 ##### 10. iStockphoto
 
 Whilst [this option ](https://www.istockphoto.com/)can be on the pricey side, this offshoot of Getty does boast a database of millions of photos, clip art, videos and illustrations for royalty-free use. A lot of care has gone into curating the [iStockphoto](https://www.istockphoto.com/) library, and it includes some good genre-specific pictures.
 
 ![](../uploads/software10.png)
 
-##### \
 11. Shutterstock
 
 [Shutterstock](https://www.shutterstock.com/) is probably the first to come to mind when you think about stock photography websites. The prices can end up a little high if you’re not buying pictures in bulk, however their massive library of over 200 million quality photos is nothing to scoff at.
@@ -103,15 +96,13 @@ The [123rf](https://www.123rf.com/) library is host to over 90 million images, a
 
 ##### 14. DepositPhotos
 
-Besides the free options, DepositPhotos (<https://depositphotos.com/>) is one of the more affordable options for quality stock websites. They boast a unique collection of illustrations, which could be a great alternative to photography on your cover.
+Besides the free options, [DepositPhotos](https://depositphotos.com/) is one of the more affordable options for quality stock websites. They boast a unique collection of illustrations, which could be a great alternative to photography on your cover.
 
 ![](../uploads/software14.png)
 
-##### 15. The Stock Alchemist's 
+##### 15. The Stock Alchemist's
 
 [The Stock Alchemist’s](https://www.thestockalchemist.com/) unique draw is that they create character photos for designers to use on book covers. They carry photos for many different genres, such as science fiction and dystopia. They also pride themselves on the diversity of their models; they have a whole section dedicated to gender non-conforming models.
-
-
 
 ![](../uploads/software15.png)
 
@@ -145,14 +136,6 @@ Just like PikWizard, [Rawpixel](https://www.rawpixel.com/) offers some free imag
 
 ![](../uploads/software20.png)
 
-
-
-
-
-
-
 *Hopefully, these 20 stock photo sites provide you with a good place to start your search! Remember to use stock photos properly by finding suitable images, which are legal to use and haven’t been put on someone else's front cover already. And good luck designing!*
-
-
 
 <!--EndFragment-->
