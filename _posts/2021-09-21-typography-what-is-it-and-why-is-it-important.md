@@ -107,6 +107,6 @@ Even after all this information, you may still be struggling to get your typogra
 
 ![](../uploads/typography7.png)
 
-*Overall, typography can either make or break your book cover, and it’s definitely not something to be forgotten about and thought about last when designing your cover!*
+*Overall, remember that typography can either make or break your book cover, and it’s definitely not something to be forgotten about and thought about last when designing your cover!*
 
 <!--EndFragment-->
