@@ -24,7 +24,7 @@ If you are inexperienced in design, it is important to make use of your resource
 
 [Canva](https://www.canva.com/learn/design/) is an app-based tool crafted for designing and editing images. It takes all the essential aspects of apps like photoshop and indesign that makes them good, and crafts them into a new, easy and free to use photo editing program.
 
-Whilst Canva is free to use, with a wide range of features in the free version, it does have a paid for upgrade with additional features that you may find benefit your cover. Whilst it’s understandable if you want to publish your book as cheaply as possible, it does pay off in the long run to invest in your book looking as professional as possible, and having a well done and interesting cover is a worthwhile investment in the success of your book.
+Whilst Canva is free to use, with a wide range of features in the free version, it does have a paid for upgrade with additional features that you may find benefit your cover. Whilst it’s understandable if you want to publish your book as cheaply as you can, it does pay off in the long run to invest in your book looking as professional as possible, and having a well done and interesting cover is an essential investment for the success of your book.
 
 The subscription fee for the upgraded version of Canva is reasonably priced, and if you decide to use this software to make your cover you can be smart about it and make use of the 30 day free trial period (that is if you plan to use Canva as a one off, and not for another book in the future).
 
@@ -36,13 +36,13 @@ Canva Pro has some interesting features you might find useful, however, you can 
 
 ![](../uploads/canva4.jpg)
 
-You have access to many types of pre-designed book covers and a dedicated book cover designer that gives you a lot of choice of book cover templates.
+You have access to many templates of pre-designed book covers and a dedicated book cover designer that gives you a lot of choice of book cover templates.
 
 Below the first few categories visible, there is a wide variety of covers that are genre specific. Even if you don’t want to use Canva to make the final version of your book cover, it is a very useful tool to get inspiration for your cover which is genre specific, making sure your cover fits the target demographic of your audience. 
 
 Canva Free also gives you access to premium images which you can buy from as little as £1, so it is still affordable no matter which plan you choose to use. 
 
-If you are new to design, Canva really is the most affordable and easy to use alternative to software such as photoshop and Indesign, and even helps inspire those who have no idea where to start.
+If you are new to design, Canva really is the most affordable and easy to use alternative to software such as photoshop and Indesign.
 
 ## Using Canvas Designer
 
@@ -80,16 +80,10 @@ Here is my finished book cover I've completed in Adobe InDesign:
 
 ![](../uploads/canva11.png)
 
-
-
 ## Canva: The Final Word
 
 If you’re new to design, or have little experience with book cover designs, but still want to create your own front cover, Canva is a good solution which is easy to use and free. Great book cover design is very complex and takes a while to get a hang of, even for talented illustrators and designers, but for a simple cover that needs to look professional and eye catching, Canva has a wide variety of tools and a selection of stock images and graphics which will help you create something with a polished finish. 
 
 Just understand that a full cover is not as simple to do with Canva, but is still achievable. It is, however, the perfect tool if you’re looking to make a front cover for an ebook, or are just looking for design inspiration.
-
-
-
-
 
 <!--EndFragment-->
