@@ -10,8 +10,8 @@ tags: null
 description: null
 show: true
 ---
-This website is the Dissertation/ Major Project of Freya Nelder-Hunt at Oxford Brookes University for the course Publishing Media 2021. 
+This website is the Dissertation/ Major Project of Freya Nelder-Hunt.
 
-The aim of this website is to help breakdown what makes book covers good, and show people how to replicate these design features. 
+The aim of this website is to help breakdown what makes book covers good, and show how you can make a high quality, professional book cover even as a novice designer.
 
 Any queries please email freyanelderhunt@gmail.com
