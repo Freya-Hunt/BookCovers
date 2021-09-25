@@ -12,14 +12,12 @@ tags:
 
 Looking for inspiration for your war fiction book cover? Here's a list of some tips and resources you can use to create a unique and professional book cover.
 
-
-
 # Start with finding sources of inspiration
 
 Even the best of designers need to find inspiration before they can start creating their own book covers. If you’re struggling to start your cover or aren’t sure what designs are commonly used for war fiction covers, try researching the genre through websites such as these:
 
 * **[99 Designs- ](https://99designs.co.uk/inspiration/book-covers/war)**this is a website dedicated to showcasing the best book cover design in the industry, and luckily for you, they sort their cover designs by genre. Take a look through this amazing collection of war fiction covers, and see if you can take some inspiration to make your own cover stunning and genre appropriate. 
-* **[PosterMyWall- ](<httpswww.postermywall.com/index.php/posters/search?s=War%20Book%20Cover)**this is a design website which is very useful for making original book covers. This web based app comes with thousands of professionally made templates, stock photos, and illustrations which can help inspire your own cover
+* **[PosterMyWall](httpswww.postermywall.com/index.php/posters/search?s=War%20Book%20Cover)-** this is a design website which is very useful for making original book covers. This web based app comes with thousands of professionally made templates, stock photos, and illustrations which can help inspire your own cover
 * **[Book Cover Designers- ](https://thebookcoverdesigners.com/war-book-cover-designs/)**this is a book design agency that specialises in indie and self-published books. They have a large catalogue of war fiction book covers they have previously designed for customers, so have a browse and see if any of these designs inspire you.
 
 # Picking the right image for your cover
@@ -46,11 +44,9 @@ Here are a two resources you can use to source high quality genre appropriate ph
 
 ![](../uploads/war9.png)
 
-
-
 # Using the right colours
 
-Getting the colours you use on your book right is essential if you want your book to look professional and fit within the marketplace. People associate a lot with colour, and if you were to use the wrong palette you could leave your audience confused about what your book is about.
+Getting the colours you use on your book right is essential if you want your book to look high quality and fit within the marketplace. People associate a lot with colour, and if you were to use the wrong palette you could leave your audience confused about what your book is about.
 
 Try looking at other war fiction books if you don’t know what's typical or appropriate for the genre. Here's a few examples from the top selling war fiction of the last five years (according to Nielsen Bookscanner).
 
@@ -59,8 +55,6 @@ Try looking at other war fiction books if you don’t know what's typical or app
 If you want your cover to imply your book is more action focused, as well as make it seem mysterious, dark and violent then this colour palette will suit your book perfectly.
 
 ![](../uploads/war1.png)
-
-
 
 * **Muted yellows, beige and grey:** these colours can give a more calm and mature theme to your book, suggesting it has a more historical focus rather than being an action book. According to [Cover Design Studio](https://www.coverdesignstudio.com/best-colors-book-covers/), they imply things such as calmness, knowledge, prestige, wisdom and sophistication.
 
@@ -72,21 +66,19 @@ For an example of this take another look at the Oxford Waterstones display of wa
 
 ![](../uploads/war10.jpg)
 
-A lot of these books feature black and white on the cover, giving them a classy and calmer tone. It also gives the books an older look, such as old fashioned black and white newspapers, signifying to the reader that they are about history as well as war.
-
-
+A lot of these books feature black and white on the cover, giving them a classy and calmer tone. It also gives the books an older look, for example by looking like old fashioned black and white newspapers, signifying to the reader that they are about history as well as war.
 
 # Typography that will fit your cover
 
 Using the right font is essential for setting the tone of your cover, and signifying to the reader what kind of war fiction your book is. For example, is it historical or modern, calm or action packed, romantic or not?
 
-For example take a look at these covers of Rosemary Goodacre’s books (two of the best selling war fiction books of 2021):
+Take a look at these covers of Rosemary Goodacre’s books (two of the best selling war fiction books of 2021 according to Nielsen Bookscanner):
 
 ![](../uploads/war3.png)
 
-Whilst the imagery clearly shows us these are historical fiction books with themes of war, the typography also shows us that these books are about romance, with the curving script font and use of pink and red lettering. This choice is perfect for these books, however if your war book is a serious mystery novel, or an action packed fighting book, this choice would only confuse your audience.
+Whilst the imagery clearly shows us these are historical fiction books with themes of war, the typography also shows us that these books are about romance, with the curving script font and use of pink and red lettering. This choice works for these books, however if your war book is a serious mystery novel, or an action packed fighting adventure, this choice would only confuse your audience.
 
-One way to convey to your audience that your book is focused on action and fighting is to use a bold blocky typeface such as in the covers below. The typography of these books gives the impression they are serious and violent orientated, allowing them to be found by the exact right audience of readers
+One way to convey to your audience that your book is focused on action and fighting is to use a bold blocky typeface such as in the covers below. The typography of these books gives the impression they are serious and violent orientated, positioning them for the correct audience of consumers.
 
 ![](../uploads/war4.png)
 
@@ -94,10 +86,6 @@ Another way you can use typography effectively is to create a branded design for
 
 ![](../uploads/war5.png)
 
-
-
 *I hope this post has been useful and has given you the knowledge and tools you need to create an original and professional war fiction book cover!*
-
-
 
 <!--EndFragment-->
